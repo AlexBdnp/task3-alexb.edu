@@ -84,3 +84,7 @@ VALUES
 INSERT INTO posts (`content`, `user_name`, `rate`, `rates_total`, `created_at`) 
 VALUES
 ('Yesterday is history. Tomorrow is a mystery. Today is a gift.', 'Alice Morse Earle', 0, 0, "2022-08-12 13:12:43");
+
+INSERT INTO posts (`content`, `user_name`, `rate`, `rates_total`, `created_at`) 
+VALUES
+('Money is ther reason we exist.', 'Lana Del Rey', 1, 1, "2022-08-12 13:12:43");
